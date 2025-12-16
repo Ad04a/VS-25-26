@@ -3,5 +3,5 @@
 int main()
 {
     int g = 8;
-    printf("Hello %d g class", g);
+    printf("Goodbye %d g class", g);
 }
