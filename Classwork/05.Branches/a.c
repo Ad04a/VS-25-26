@@ -3,5 +3,6 @@
 int main()
 {
     printf("Goodbye to world");
-    return 2;
+    printf("Goodbye from world");
+    return 12;
 }
