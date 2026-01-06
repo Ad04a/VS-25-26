@@ -2,6 +2,7 @@
 
 int main()
 {
+    printf("Goodbye to world");
     printf("Goodbye from world");
-    return 1;
+    return 12;
 }
