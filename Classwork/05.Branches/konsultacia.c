@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main(){
-   printf("Goodbye, World!\n"); 
-   return 0;
+
+   printf("Goodbye, konsultaciq!\n"); 
+
+   return 2;
 }
